@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eERKasBqpSY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rayan\\source\\repos\\ConsumoApiWeb\\ConsumoApiWeb\\ConsumoApiWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rayan\\.nuget\\packages\\system.net.http.json\\8.0.1\\system.net.http.json.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
