@@ -6,4 +6,47 @@
 
 <h2>Dados da API</h2>
 
-<pre>@Model.JsonContent</pre>
+<div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Data de Nascimento</th>
+            <th>Email</th>
+            <th>Idade</th>
+            <th>RG</th>
+            <th>Sexo</th>
+            <th>Signo</th>
+            <th>Mãe</th>
+            <th>Pai</th>
+            <th>Endereço</th>
+            <th>Cidade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Pessoas)
+        {
+            <tr>
+                <td>@item.nome</td>
+                <td>@item.data_nasc</td>
+                <td>@item.email</td>
+                <td>@item.idade</td>
+                <td>@item.rg</td>
+                <td>@item.sexo</td>
+                <td>@item.signo</td>
+                <td>@item.mae</td>
+                <td>@item.pai</td>
+                <td>@item.endereco</td>
+                <td>@item.cidade</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+
+<div>
+
+    <h1>TESTE</h1>
+
+</div>
+

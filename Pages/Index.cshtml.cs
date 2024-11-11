@@ -1,5 +1,8 @@
 using ConsumoApiWeb.Services;
+using ConsumoApiWeb.Model;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Collections.Generic;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace ConsumoApiWeb.Pages
@@ -13,20 +16,19 @@ namespace ConsumoApiWeb.Pages
             _pessoaService = pessoaService;
         }
 
-        public string JsonContent { get; set; } = string.Empty;
+        public List<Dados> Pessoas { get; set; } = new List<Dados>();
 
         public async Task OnGetAsync()
         {
             try
             {
-                JsonContent = await _pessoaService.GetPessoasJsonAsync();
+                var jsonContent = await _pessoaService.GetPessoasJsonAsync();
+                Pessoas = JsonSerializer.Deserialize<List<Dados>>(jsonContent) ?? new List<Dados>();
             }
             catch
             {
-                JsonContent = "Erro ao acessar a API ou API não encontrada.";
+                Pessoas = new List<Dados>();
             }
         }
     }
 }
-
-

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsumoApiWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c09774717243a4ebb4dccb1e90a0d88784502b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceb756ec497e3bf72026edaa87861c447e3e0fe4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsumoApiWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsumoApiWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

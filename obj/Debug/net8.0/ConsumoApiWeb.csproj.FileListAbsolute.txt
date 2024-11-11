@@ -1,3 +1,4 @@
+C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\ConsumoApiWeb.csproj.AssemblyReference.cache
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\ConsumoApiWeb.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\ConsumoApiWeb.AssemblyInfoInputs.cache
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\ConsumoApiWeb.AssemblyInfo.cs
@@ -14,6 +15,7 @@ C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\bin\Debug\net8.0\Consumo
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\bin\Debug\net8.0\ConsumoApiWeb.runtimeconfig.json
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\bin\Debug\net8.0\ConsumoApiWeb.dll
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\bin\Debug\net8.0\ConsumoApiWeb.pdb
+C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\staticwebassets\msbuild.ConsumoApiWeb.Microsoft.AspNetCore.StaticWebAssets.props
@@ -24,6 +26,7 @@ C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\staticw
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\scopedcss\bundle\ConsumoApiWeb.styles.css
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\scopedcss\projectbundle\ConsumoApiWeb.bundle.scp.css
+C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\ConsumoA.6B082C1C.Up2Date
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\ConsumoApiWeb.dll
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\refint\ConsumoApiWeb.dll
 C:\Users\rayan\source\repos\ConsumoApiWeb\ConsumoApiWeb\obj\Debug\net8.0\ConsumoApiWeb.pdb
